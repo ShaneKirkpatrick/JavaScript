@@ -1,0 +1,23 @@
+<html>
+<head>
+</head>
+<body>
+
+<script type="text/javascript">
+
+	var firstName = "Johnny";
+	var lastName = "Kinder";
+
+	if(firstName=="Johnny") {
+		if (lastName=="Kinder"){ 
+			document.write("Welcome Johnny Kinder");
+		}else{
+			document.write("Welcome Johnny Someone");
+		}
+	}
+
+
+</script>
+
+</body>
+</html>
